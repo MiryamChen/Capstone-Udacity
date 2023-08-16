@@ -17,6 +17,11 @@ For the evaluation of our stock price prediction model, we adopted the Mean Abso
 
 Throughout this project, the developed LSTM model achieved a Mean Absolute Percentage Error (MAPE) of 0.58. This MAPE value serves as an indication of the model's performance, showcasing its ability to predict stock prices with an average error of 0.58% relative to the actual values in test set.
 
+## Conclusion
+In conclusion, the task of predicting stock prices is a complex and challenging endeavor. The stock market is influenced by a multitude of factors, including economic indicators, geopolitical events, market sentiment, and unforeseen occurrences. While this project has successfully implemented a Long Short Term Memory (LSTM) model to predict stock prices based on historical data, it's important to acknowledge the limitations of such models.
+
+It's important to approach stock market prediction with a comprehensive understanding of its intricacies and the many factors that can affect it.
+
 ## How to Use
 This script serves as a template that can be customized for any stock of interest. To obtain the desired price prediction for a particular stock, simply replace the following variables with the values corresponding to your target stock and desired date range:
 
