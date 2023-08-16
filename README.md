@@ -45,3 +45,6 @@ TensorFlow: Model training and evaluation.<br>
 
 ## Acknowledgements
 We extend our gratitude to Yahoo Finance for providing a free API that supplies daily trading data for numerous publicly traded companies. This data source has been instrumental in the development of this project.
+
+## Blog post link
+https://medium.com/@miryam.ychen/predicting-stock-prices-with-machine-learning-a-deep-dive-8f80bfd585cd
